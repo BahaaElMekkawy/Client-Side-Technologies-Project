@@ -1,0 +1,306 @@
+.logo {
+    /* padding-top: 10px; */
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.logoimg {
+    padding-left: 150px;
+    width: 50px;
+    display: inline-block;
+}
+
+.logoimg img {
+    width: 45px;
+    height: 45px;
+}
+
+
+.navigation {
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 1%;
+
+}
+
+.navigation div {
+    text-align: center;
+    float: left;
+    width: 140px;
+}
+
+.links {
+    display: inline-block;
+    /* width: 50%; */
+    width: 690px;
+    height: 100px;
+    margin-left: 15%;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: rgb(91, 88, 88);
+}
+
+.search-container {
+    display: inline-block;
+    /* padding-right: 20px; */
+}
+
+.container {
+    align-items: center;
+    width: 90%;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+.shopnow {
+    background-color: orange;
+
+}
+
+.contactus {
+    background-color: black;
+    margin-left: 20px;
+}
+
+.dish {
+    display: inline-block;
+}
+
+.dish img {
+    width: 400px;
+}
+
+.firstpage {
+    background-color: beige;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.freshfruits h3 {
+    padding: 0;
+    margin: 0;
+}
+
+#head {
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    font-size: 35px;
+    text-align: center;
+}
+
+#ph {
+    font-size: 20px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#orange {
+    /* background-color: red; */
+    height: 250px;
+    padding: 0;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#orange h3 {
+    text-align: left;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+#orange p {
+    text-align: left;
+    font-weight: 200;
+    font-size: 22px;
+}
+
+#orangetext {
+    width: 50%;
+    display: inline-block;
+}
+
+#orangeimg {
+    display: inline-block;
+    width: 150px;
+}
+
+#orangeimg img {
+    width: 250px;
+    padding-left: 250px;
+    margin-top: 50px;
+}
+
+#orangereadmore a {
+    background-color: black;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 1px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#grapeimg {
+    display: inline-block;
+    width: 250px;
+}
+
+#grapeimg img {
+    width: 100px;
+    height: 200px;
+    padding-left: 320px;
+    margin-top: 50px;
+}
+
+#gauva {
+    display: inline-block;
+    width: 250px;
+}
+
+#gauva img {
+    width: 200px;
+    height: 170px;
+    padding-left: 280px;
+    margin-top: 150px;
+}
+
+
+
+
+
+
+.form {
+    margin-left: 150px;
+    margin-top: 150px;
+    width: 900px;
+    height: 500px;
+    /* background-color: red; */
+}
+
+#formhead {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+}
+
+input {
+    font-size: 20px;
+    width: 600px;
+    border-color: darkgrey;
+    border-bottom: 10;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding: 4px;
+    margin-bottom: 30px;
+}
+
+#email {
+    margin-bottom: 70px;
+}
+
+.form {
+    display: inline-block;
+}
+
+#btn {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: antiquewhite;
+    background-color: orange;
+    padding-right: 30px;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 2px;
+    cursor: pointer;
+
+}
+
+#orangedish {
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 189px;
+}
+
+#orangedish img {
+    height: 450px;
+}
+
+#followus {
+    padding-top: 150px;
+    margin-left: 150px;
+    /* background-color: red; */
+    width: 1200px;
+    height: 300px;
+}
+
+#fr {
+    display: inline-block;
+    padding-right: 100px;
+    line-height: 25px;
+    width: 150px;
+}
+
+#followus h4 {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+#icons {
+    width: 200px;
+    height: 300px;
+    margin-left: 100px;
+    display: inline-block;
+
+
+}
+
+#icons h4 {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+#icons img {
+    padding: 1px;
+    margin: 2px;
+    width: 35px;
+}
+
+#icons input {
+    margin-bottom: 20px;
+    width: 200px;
+    border-color: darkgrey;
+}
+
+#copyright {
+    height: 80px;
+    background-color: rgb(241, 237, 237);
+    text-align: center;
+}
+
+#copyright p {
+    padding-top: 25px;
+}
