@@ -80,17 +80,23 @@
     color: white;
     text-decoration: none;
     border-radius: 1px;
+    transition: all ease;
+
+
 }
+
 
 .shopnow {
     background-color: orange;
-
 }
+
 
 .contactus {
     background-color: black;
     margin-left: 20px;
+    transition: background-color 0.3s ease;
 }
+
 
 .dish {
     display: inline-block;
@@ -131,18 +137,35 @@
     padding-left: 140px;
 }
 
+
+
 .three {
     width: 400px;
     height: 380px;
     padding-left: 10px;
     display: inline-block;
     border: 1px solid darkgray;
+
 }
+
+
+
+.threeitems :hover{
+    background-color: white;
+    color: black;
+    border-top: 5px solid orange;
+}
+
+.three img, .three p ,.three h3 {
+    pointer-events: none;
+  }
 
 .three img {
     width: 70px;
     height: 60px;
 }
+
+
 
 .three img {
     margin-left: 162.5px;
@@ -174,6 +197,14 @@
     margin-top: 30px;
     margin-left: 680px;
     margin-bottom: 30px;
+    transition: all ease;
+
+}
+
+.readmore :hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
 }
 
 .freshfruits h3 {
@@ -243,6 +274,20 @@
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.orangereadmore a {
+    background-color: black;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 1px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
 
 #grapeimg {
     display: inline-block;
